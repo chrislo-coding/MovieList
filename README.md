@@ -10,10 +10,13 @@
 ## 電腦版畫面呈現
 
 - 首頁呈現電影清單
-<img src="./web.png" alt="cover" width="65%"> 
+<img src="./homepage1.png" alt="image" width="65%"> 
+<img src="./homepage2.png" alt="image" width="65%"> 
+<img src="./homepage3.png" alt="image" width="65%"> 
 
 - 按下more顯示詳細資料
-<img src="./web.png" alt="cover" width="65%"> 
+<img src="./movie_info1.png" alt="image" width="65%"> 
+<img src="./movie_info2.png" alt="image" width="65%"> 
 
 
 ## 語言
