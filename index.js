@@ -52,11 +52,6 @@ datapanel.addEventListener("click",function onPanelClcked(event){
     }
 })
 
-searchForm.addEventListener('submit', function onSearchFormSubmitted(event){
-    event.preventDefault() //改掉頁面預設 給ＪＳ控制
-    console.log(event)
-  })
-
 axios.get(Index_url).then((response) => {
     Movies.push(...response.data.results)
     renderMovieList(Movies)
